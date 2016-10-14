@@ -1,0 +1,26 @@
+{
+  "name": "loopback-ds-realtime-mixin",
+  "version": "0.0.1",
+  "description": "Loopback mixin integrating Socket.io for realtime API events",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeff3yan/loopback-ds-realtime-mixin.git"
+  },
+  "keywords": [
+    "loopbackjs",
+    "socket.io"
+  ],
+  "author": "Jeffrey Yan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jeff3yan/loopback-ds-realtime-mixin/issues"
+  },
+  "homepage": "https://github.com/jeff3yan/loopback-ds-realtime-mixin#readme",
+  "dependencies": {
+    "socket.io": "^1.5.0"
+  }
+}
